@@ -1,0 +1,41 @@
+Privacy Policy for MapChat
+
+Last updated: May 2025
+
+1. Introduction
+
+MapChat ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services.
+
+2. Information We Collect
+
+Personal Information: Username, email address (if provided for support), and password (stored in hashed form).
+Location Data: Your device's GPS location is collected to provide core app functionality.
+Usage Data: We collect anonymized information about your interactions with the app for analytics and improvement.
+Media: If you share photos, audio, or text messages in chats, these are stored securely on our server.
+3. How We Use Your Information
+
+To provide and maintain MapChat functionality
+To communicate with users (e.g., support, notifications)
+To improve and optimize our app and services
+To comply with legal obligations
+4. Sharing Your Information
+
+We do not sell or rent your personal information.
+Data may be shared with law enforcement if required by law.
+Group chat content is visible to group participants.
+5. Data Security
+
+We use technical and organizational measures to protect your information, including encryption and secure authentication. However, no system is 100% secure.
+
+6. Your Rights
+
+You can request deletion of your account and data by contacting support at: mapchat.sup@gmail.com
+You may update or correct your information in the app.
+7. Changes to This Policy
+
+We may update this Policy from time to time. Updates will be posted in the app and/or on our website.
+
+8. Contact Us
+
+For any questions about this Privacy Policy, contact:
+Email: mapchat.sup@gmail.com
